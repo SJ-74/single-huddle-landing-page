@@ -24,6 +24,9 @@ body{
     color : var(--white);
 }
 
+ul li a{
+    text-decoration : none;
+
 .header{
     max-width : 80%;
     margin-inline : auto;
